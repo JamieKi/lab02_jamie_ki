@@ -1,1 +1,1 @@
-# lab02_jamie_ki
+# ASCII Art lab
